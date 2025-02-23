@@ -11,4 +11,4 @@ This is a countdown timer project built using HTML, CSS and JavaScript
 
 **Note:** First bring focus to the range slider then use the left or right arrow keys to choose values with finesse.
 
-**Live project link:** [Countdown timer](https://ayushknath.github.io/countdown-timer)
+**Live project link:** [Countdown timer](https://memesoondev.github.io/countdown-timer/)
